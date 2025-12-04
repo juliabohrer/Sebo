@@ -1,0 +1,1 @@
+import{_ as e,c as s,o as r,ae as i}from"./chunks/framework.BQlYxExx.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"diagrama.md","filePath":"diagrama.md"}'),o={name:"diagrama.md"};function d(t,a,n,l,m,c){return r(),s("div",null,[...a[0]||(a[0]=[i("",10)])])}const g=e(o,[["render",d]]);export{u as __pageData,g as default};

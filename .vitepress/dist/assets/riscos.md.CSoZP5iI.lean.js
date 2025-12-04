@@ -1,0 +1,1 @@
+import{_ as e,c as a,o,ae as s}from"./chunks/framework.BQlYxExx.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"riscos.md","filePath":"riscos.md"}'),i={name:"riscos.md"};function r(l,t,n,d,g,c){return o(),a("div",null,[...t[0]||(t[0]=[s("",3)])])}const p=e(i,[["render",r]]);export{f as __pageData,p as default};

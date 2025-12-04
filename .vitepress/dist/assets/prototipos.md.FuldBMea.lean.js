@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,ae as i}from"./chunks/framework.BQlYxExx.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"prototipos.md","filePath":"prototipos.md"}'),r={name:"prototipos.md"};function s(p,o,d,l,n,c){return t(),e("div",null,[...o[0]||(o[0]=[i("",5)])])}const u=a(r,[["render",s]]);export{_ as __pageData,u as default};
